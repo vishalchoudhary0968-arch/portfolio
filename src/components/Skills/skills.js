@@ -7,7 +7,7 @@ const Skills = () => {
     return (
         <section id='skills'>
             <span className="skillTitle">What I do</span>
-            <span className="skillDesc">I am a skilled and passionate web designer with experience in creating visually appealing and user-friendly websites. I have a strong understanding of design and a keen eye for detail. I am proficient in HTML, CSS, JavaScript, React as well as design software such as Adobe Photoshop and Illustrator.</span>
+            <span className="skillDesc">I am a skilled and passionate web designer with experience in creating visually appealing and user-friendly websites. I have a strong understanding of design and a keen eye for detail. I am proficient in HTML, CSS, JavaScript, React ,Python, Django as well as design software such as Adobe Photoshop and Illustrator.</span>
             <div className="skillBars">
                 <div className="skillBar">
                     <img src={UIDesign} alt="UIDesign" className="skillBarImg" />
